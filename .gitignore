@@ -3,9 +3,9 @@
 !.gitignore
 !.prettierrc
 !package.json
+!pnpm-lock.yaml
 !tsconfig.json
 !README.md
 
 !2022
-!2022/**/*
-
+!2022/**
