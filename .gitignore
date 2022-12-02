@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+!.prettierrc
+!package.json
+!tsconfig.json
+!README.md
+
+!2022
+!2022/**/*
+
